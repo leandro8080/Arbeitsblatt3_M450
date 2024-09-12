@@ -1,0 +1,13 @@
+{
+	"name": "arbeitsblatt3_m450",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "Leandro Schultze",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^29.7.0"
+	}
+}
